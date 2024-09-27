@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "auth": "^1.1.1",
+    "firebase": "^10.13.2"
+  }
+}
